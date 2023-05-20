@@ -1,4 +1,4 @@
-<img src="./web_dev.png" width="100%" />
+<img src="./banner-3.jpg" width="100%" />
 <h1 align="center">Hi 👋, I'm Figo Arbiansyah Pratama</h1>
 <h3 align="center">A young web developer from indonesia</h3>
 
