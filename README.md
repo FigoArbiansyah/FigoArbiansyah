@@ -1,6 +1,7 @@
-<img src="./banner-3.jpg" width="100%" />
+<!-- <img src="./banner-3.jpg" width="100%" /> -->
 <h1 align="center">Hi 👋, I'm Figo Arbiansyah Pratama</h1>
 <h3 align="center">A young web developer from indonesia</h3>
+<img src="https://www.tfkhdyt.my.id/images/tfkhdyt_illustration.svg" width="270" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=figoarbiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="figoarbiansyah" /> </p>
 
