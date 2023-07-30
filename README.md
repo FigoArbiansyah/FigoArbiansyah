@@ -1,13 +1,13 @@
 <!-- <img src="./banner-3.jpg" width="100%" /> -->
 <h1 align="center">Hi 👋, I'm Figo Arbiansyah Pratama</h1>
-<h3 align="center">A young web developer from indonesia</h3>
+<h3 align="center">A young web developer from Cirebon</h3>
 <img src="https://www.tfkhdyt.my.id/images/tfkhdyt_illustration.svg" width="270" align="right" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=figoarbiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="figoarbiansyah" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=figoarbiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="figoarbiansyah" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Nuxt JS, Express JS**
+- 🌱 I’m currently learning **Expo**
 
 - 👨‍💻 All of my projects are available at [https://www.figo.my.id](https://www.figo.my.id)
 
