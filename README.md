@@ -2,7 +2,7 @@
 ![https://github-readme-stats.vercel.app/api?username=FigoArbiansyah&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=FigoArbiansyah&hide=contribs,prs,issues)
 
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/figo-arbiansyah-pratama-8b65ab246/)
-[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/channel/UCA_gvQ2y7RqycyqWKu7cq-g)
+[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/@figoarbiansyah2506)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/figo_arbnsyh/)
 
 Hello there 👋,
