@@ -17,7 +17,9 @@ Here's a list of my tech stack and skills:
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
 ![Expo](https://img.shields.io/badge/-Expo-black?style=for-the-badge)
+
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/-Laravel-orange?style=for-the-badge)
 
 ---
 
