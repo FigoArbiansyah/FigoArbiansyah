@@ -6,7 +6,7 @@
 
 Hello there 👋,
 
-I am a 19 years old software developer who graduated in 2023 and has gained 2 year of work experience as an intern (Web Dev, Laravel Dev, and Frontend Dev with React). In addition to being a software developer, I also teach at an event called Coding Day held at SMKN 1 Cirebon. Check out my projects below, and please leave a star (or 'like') if you find anything I've made useful. Feel free to connect with me through my socials listed above. Looking forward to connecting with you!
+I am a 20 years old software developer who graduated in 2023 and has gained 2 year of work experience as an intern (Web Dev, Laravel Dev, and Frontend Dev with React). In addition to being a software developer, I also teach at an event called Coding Day held at SMKN 1 Cirebon. Check out my projects below, and please leave a star (or 'like') if you find anything I've made useful. Feel free to connect with me through my socials listed above. Looking forward to connecting with you!
 
 ---
 
